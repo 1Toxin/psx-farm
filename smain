@@ -1,3 +1,5 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua'))()
-wait(0.05)
+_G.Crash=false
+_G.Kick=false
 loadstring(game:HttpGet('https://pastebin.com/raw/GeNu02jJ'))()
+wait(0.05)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua'))()
